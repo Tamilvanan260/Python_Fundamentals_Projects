@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "D:\PYTHON\Project py\Exception_Handling\main_2.py", line 60, in error_logging
+    x = int(input("Enter a number: "))
+ValueError: invalid literal for int() with base 10: 'yu'
+
+

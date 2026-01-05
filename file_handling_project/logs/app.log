@@ -1,0 +1,4 @@
+2026-01-05 15:53:45,611 - ERROR - CSV file not found
+2026-01-05 15:59:14,001 - ERROR - [Errno 13] Permission denied: 'users_50.csv'
+2026-01-05 15:59:33,681 - ERROR - [Errno 13] Permission denied: 'users_50.csv'
+2026-01-05 15:59:50,853 - ERROR - [Errno 13] Permission denied: 'users_50.csv'
